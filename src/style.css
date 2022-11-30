@@ -3,3 +3,21 @@
     object-position: 0 70%;
     height: 500px;
 }
+
+.fonte-titulo {
+    font-family: 'Satisfy', cursive;
+    font-weight: bold;
+}
+
+.cor-especial {
+    color: darkred;
+}
+
+.botao {
+    background-color: darkred;
+    color: white;
+}
+
+.card {
+    border-color: darkred;
+}
