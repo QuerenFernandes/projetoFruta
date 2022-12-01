@@ -1,3 +1,9 @@
+.navbar-brand {
+    color: darkred; 
+    font-size: 32px;
+    font-family: 'Satisfy', cursive;
+}
+
 .imagem-carrossel {
     object-fit: cover;
     object-position: 0 70%;
@@ -29,5 +35,10 @@
 } 
 
 .card-largura {
-    max-width: 18rem;
+    max-width: 20rem;
+}
+
+.footer {
+    background-color: darkred;
+
 }
